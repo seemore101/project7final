@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyRecyclerViewDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/black</item>
+        <!-- Set the background color to black -->
+        <item name="android:windowBackground">#000000</item>
+    </style>
+
+    <style name="Theme.MyRecyclerViewDemo" parent="Base.Theme.MyRecyclerViewDemo" />
+</resources>
